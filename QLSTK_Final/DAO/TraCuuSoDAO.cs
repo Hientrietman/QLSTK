@@ -9,6 +9,7 @@ using System.Threading.Tasks;
 
 namespace DAO
 {
+    // thay đổi
     public class TraCuuSoDAO
     {
         private static TraCuuSoDAO instance;
